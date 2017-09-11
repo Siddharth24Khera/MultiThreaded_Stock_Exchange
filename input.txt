@@ -1,0 +1,10 @@
+%d(T0) %s(Name) %d(Texp) %s (Type) %d(Qty) %s(Stock) %d(Price) %b(Partial)
+1 David 1 sell 2 A 20 T
+3 Neil 3 sell 3 B 10 T
+3 Bob 2 buy 2 A -10 F
+4 Julia 3 sell 2 B 20 T
+5 Ben 4 buy 4 B 20 T
+7 James buy 2 C 15 F
+8 Susan Sell 3 C 10 T
+9 Amy Buy 2 D 10 F
+9 Mark Sell 3 C 15 F
